@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/obj/Debug/net10.0/MahirlAlphabetsandvowels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/obj/Debug/net10.0/MahirlAlphabetsandvowels.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/obj/Debug/net10.0/MahirlAlphabetsandvowels.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/obj/Debug/net10.0/MahirlAlphabetsandvowels.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/obj/Debug/net10.0/MahirlAlphabetsandvowels.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/bin/Debug/net10.0/MahirlAlphabetsandvowels
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/bin/Debug/net10.0/MahirlAlphabetsandvowels.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/bin/Debug/net10.0/MahirlAlphabetsandvowels.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/bin/Debug/net10.0/MahirlAlphabetsandvowels.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/bin/Debug/net10.0/MahirlAlphabetsandvowels.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/obj/Debug/net10.0/MahirlAlphabetsandvowels.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/obj/Debug/net10.0/refint/MahirlAlphabetsandvowels.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/obj/Debug/net10.0/MahirlAlphabetsandvowels.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/obj/Debug/net10.0/MahirlAlphabetsandvowels.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MahirlAlphabetsandvowels/obj/Debug/net10.0/ref/MahirlAlphabetsandvowels.dll
