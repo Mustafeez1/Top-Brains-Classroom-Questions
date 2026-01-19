@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/bin/Debug/net10.0/InventoryNameCleanup
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/bin/Debug/net10.0/InventoryNameCleanup.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/bin/Debug/net10.0/InventoryNameCleanup.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/bin/Debug/net10.0/InventoryNameCleanup.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/bin/Debug/net10.0/InventoryNameCleanup.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/obj/Debug/net10.0/refint/InventoryNameCleanup.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InventoryNameCleanup/obj/Debug/net10.0/ref/InventoryNameCleanup.dll
