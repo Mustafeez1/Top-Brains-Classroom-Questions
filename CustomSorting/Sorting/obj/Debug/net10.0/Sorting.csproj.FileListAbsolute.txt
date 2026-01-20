@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/obj/Debug/net10.0/Sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/obj/Debug/net10.0/Sorting.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/obj/Debug/net10.0/Sorting.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/obj/Debug/net10.0/Sorting.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/obj/Debug/net10.0/Sorting.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/bin/Debug/net10.0/Sorting
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/bin/Debug/net10.0/Sorting.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/bin/Debug/net10.0/Sorting.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/bin/Debug/net10.0/Sorting.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/bin/Debug/net10.0/Sorting.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/obj/Debug/net10.0/Sorting.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/obj/Debug/net10.0/refint/Sorting.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/obj/Debug/net10.0/Sorting.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/obj/Debug/net10.0/Sorting.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CustomSorting/Sorting/obj/Debug/net10.0/ref/Sorting.dll
