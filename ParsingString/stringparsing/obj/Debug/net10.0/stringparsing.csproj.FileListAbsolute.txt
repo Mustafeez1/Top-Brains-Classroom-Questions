@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/obj/Debug/net10.0/stringparsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/obj/Debug/net10.0/stringparsing.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/obj/Debug/net10.0/stringparsing.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/obj/Debug/net10.0/stringparsing.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/obj/Debug/net10.0/stringparsing.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/bin/Debug/net10.0/stringparsing
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/bin/Debug/net10.0/stringparsing.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/bin/Debug/net10.0/stringparsing.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/bin/Debug/net10.0/stringparsing.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/bin/Debug/net10.0/stringparsing.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/obj/Debug/net10.0/stringparsing.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/obj/Debug/net10.0/refint/stringparsing.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/obj/Debug/net10.0/stringparsing.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/obj/Debug/net10.0/stringparsing.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ParsingString/stringparsing/obj/Debug/net10.0/ref/stringparsing.dll

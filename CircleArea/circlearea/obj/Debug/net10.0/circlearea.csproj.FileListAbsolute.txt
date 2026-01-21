@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/bin/Debug/net10.0/circlearea
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/bin/Debug/net10.0/circlearea.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/bin/Debug/net10.0/circlearea.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/bin/Debug/net10.0/circlearea.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/bin/Debug/net10.0/circlearea.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/obj/Debug/net10.0/circlearea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/obj/Debug/net10.0/circlearea.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/obj/Debug/net10.0/circlearea.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/obj/Debug/net10.0/circlearea.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/obj/Debug/net10.0/circlearea.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/obj/Debug/net10.0/circlearea.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/obj/Debug/net10.0/refint/circlearea.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/obj/Debug/net10.0/circlearea.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/obj/Debug/net10.0/circlearea.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/CircleArea/circlearea/obj/Debug/net10.0/ref/circlearea.dll

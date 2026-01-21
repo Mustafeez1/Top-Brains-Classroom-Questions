@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/bin/Debug/net10.0/Multiplication
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/bin/Debug/net10.0/Multiplication.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/bin/Debug/net10.0/Multiplication.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/bin/Debug/net10.0/Multiplication.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/bin/Debug/net10.0/Multiplication.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/obj/Debug/net10.0/Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/obj/Debug/net10.0/Multiplication.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/obj/Debug/net10.0/Multiplication.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/obj/Debug/net10.0/Multiplication.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/obj/Debug/net10.0/Multiplication.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/obj/Debug/net10.0/Multiplication.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/obj/Debug/net10.0/refint/Multiplication.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/obj/Debug/net10.0/Multiplication.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/obj/Debug/net10.0/Multiplication.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/MultiplicationTable/Multiplication/obj/Debug/net10.0/ref/Multiplication.dll

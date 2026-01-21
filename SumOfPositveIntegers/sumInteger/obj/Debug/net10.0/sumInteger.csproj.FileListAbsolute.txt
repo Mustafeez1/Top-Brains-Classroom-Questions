@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/obj/Debug/net10.0/sumInteger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/obj/Debug/net10.0/sumInteger.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/obj/Debug/net10.0/sumInteger.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/obj/Debug/net10.0/sumInteger.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/obj/Debug/net10.0/sumInteger.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/bin/Debug/net10.0/sumInteger
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/bin/Debug/net10.0/sumInteger.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/bin/Debug/net10.0/sumInteger.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/bin/Debug/net10.0/sumInteger.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/bin/Debug/net10.0/sumInteger.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/obj/Debug/net10.0/sumInteger.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/obj/Debug/net10.0/refint/sumInteger.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/obj/Debug/net10.0/sumInteger.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/obj/Debug/net10.0/sumInteger.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SumOfPositveIntegers/sumInteger/obj/Debug/net10.0/ref/sumInteger.dll

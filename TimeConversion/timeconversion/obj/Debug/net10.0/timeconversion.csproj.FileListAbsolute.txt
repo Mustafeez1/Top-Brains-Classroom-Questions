@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/bin/Debug/net10.0/timeconversion
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/bin/Debug/net10.0/timeconversion.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/bin/Debug/net10.0/timeconversion.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/bin/Debug/net10.0/timeconversion.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/bin/Debug/net10.0/timeconversion.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/obj/Debug/net10.0/timeconversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/obj/Debug/net10.0/timeconversion.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/obj/Debug/net10.0/timeconversion.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/obj/Debug/net10.0/timeconversion.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/obj/Debug/net10.0/timeconversion.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/obj/Debug/net10.0/timeconversion.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/obj/Debug/net10.0/refint/timeconversion.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/obj/Debug/net10.0/timeconversion.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/obj/Debug/net10.0/timeconversion.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/TimeConversion/timeconversion/obj/Debug/net10.0/ref/timeconversion.dll
