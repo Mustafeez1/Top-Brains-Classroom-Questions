@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/bin/Debug/net10.0/objectdemo
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/bin/Debug/net10.0/objectdemo.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/bin/Debug/net10.0/objectdemo.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/bin/Debug/net10.0/objectdemo.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/bin/Debug/net10.0/objectdemo.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/obj/Debug/net10.0/objectdemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/obj/Debug/net10.0/objectdemo.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/obj/Debug/net10.0/objectdemo.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/obj/Debug/net10.0/objectdemo.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/obj/Debug/net10.0/objectdemo.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/obj/Debug/net10.0/objectdemo.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/obj/Debug/net10.0/refint/objectdemo.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/obj/Debug/net10.0/objectdemo.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/obj/Debug/net10.0/objectdemo.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ObjectArray/objectdemo/obj/Debug/net10.0/ref/objectdemo.dll
