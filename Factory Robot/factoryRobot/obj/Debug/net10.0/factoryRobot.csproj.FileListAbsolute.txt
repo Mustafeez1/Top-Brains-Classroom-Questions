@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/obj/Debug/net10.0/factoryRobot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/obj/Debug/net10.0/factoryRobot.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/obj/Debug/net10.0/factoryRobot.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/obj/Debug/net10.0/factoryRobot.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/obj/Debug/net10.0/factoryRobot.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/bin/Debug/net10.0/factoryRobot
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/bin/Debug/net10.0/factoryRobot.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/bin/Debug/net10.0/factoryRobot.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/bin/Debug/net10.0/factoryRobot.dll
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/bin/Debug/net10.0/factoryRobot.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/obj/Debug/net10.0/factoryRobot.dll
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/obj/Debug/net10.0/refint/factoryRobot.dll
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/obj/Debug/net10.0/factoryRobot.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/obj/Debug/net10.0/factoryRobot.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Capgemini/Training(C#)/Factory Robot/factoryRobot/obj/Debug/net10.0/ref/factoryRobot.dll
