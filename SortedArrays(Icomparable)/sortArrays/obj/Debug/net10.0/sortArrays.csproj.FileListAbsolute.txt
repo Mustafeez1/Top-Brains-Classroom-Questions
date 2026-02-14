@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/obj/Debug/net10.0/sortArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/obj/Debug/net10.0/sortArrays.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/obj/Debug/net10.0/sortArrays.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/obj/Debug/net10.0/sortArrays.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/obj/Debug/net10.0/sortArrays.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/bin/Debug/net10.0/sortArrays
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/bin/Debug/net10.0/sortArrays.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/bin/Debug/net10.0/sortArrays.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/bin/Debug/net10.0/sortArrays.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/bin/Debug/net10.0/sortArrays.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/obj/Debug/net10.0/sortArrays.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/obj/Debug/net10.0/refint/sortArrays.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/obj/Debug/net10.0/sortArrays.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/obj/Debug/net10.0/sortArrays.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/SortedArrays(Icomparable)/sortArrays/obj/Debug/net10.0/ref/sortArrays.dll

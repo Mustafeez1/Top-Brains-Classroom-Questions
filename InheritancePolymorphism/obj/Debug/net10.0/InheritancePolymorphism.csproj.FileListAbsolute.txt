@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/bin/Debug/net10.0/InheritancePolymorphism
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/bin/Debug/net10.0/InheritancePolymorphism.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/bin/Debug/net10.0/InheritancePolymorphism.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/bin/Debug/net10.0/InheritancePolymorphism.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/bin/Debug/net10.0/InheritancePolymorphism.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/obj/Debug/net10.0/InheritancePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/obj/Debug/net10.0/InheritancePolymorphism.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/obj/Debug/net10.0/InheritancePolymorphism.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/obj/Debug/net10.0/InheritancePolymorphism.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/obj/Debug/net10.0/InheritancePolymorphism.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/obj/Debug/net10.0/InheritancePolymorphism.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/obj/Debug/net10.0/refint/InheritancePolymorphism.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/obj/Debug/net10.0/InheritancePolymorphism.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/obj/Debug/net10.0/InheritancePolymorphism.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/InheritancePolymorphism/obj/Debug/net10.0/ref/InheritancePolymorphism.dll
