@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/obj/Debug/net10.0/BankTransactionTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/obj/Debug/net10.0/BankTransactionTracker.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/obj/Debug/net10.0/BankTransactionTracker.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/obj/Debug/net10.0/BankTransactionTracker.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/obj/Debug/net10.0/BankTransactionTracker.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/bin/Debug/net10.0/BankTransactionTracker
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/bin/Debug/net10.0/BankTransactionTracker.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/bin/Debug/net10.0/BankTransactionTracker.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/bin/Debug/net10.0/BankTransactionTracker.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/bin/Debug/net10.0/BankTransactionTracker.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/obj/Debug/net10.0/BankTransactionTracker.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/obj/Debug/net10.0/refint/BankTransactionTracker.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/obj/Debug/net10.0/BankTransactionTracker.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/obj/Debug/net10.0/BankTransactionTracker.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/BankTransactionTracker/obj/Debug/net10.0/ref/BankTransactionTracker.dll

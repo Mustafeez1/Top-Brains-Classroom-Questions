@@ -1,5 +1,7 @@
 using System;
 using Services;
+using Domain;
+using Exceptions;
 
 namespace ConsoleApp
 {
@@ -7,40 +9,98 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            ManagementService service = new ManagementService();
+            AccountUtility service = new AccountUtility();
 
             while (true)
             {
-                Console.WriteLine("1. Display");
-                Console.WriteLine("2. Add");
-                Console.WriteLine("3. Update");
-                Console.WriteLine("4. Remove");
-                Console.WriteLine("5. Exit");
+                Console.WriteLine("\n0. Create Account");
+                Console.WriteLine("1. Display Accounts");
+                Console.WriteLine("2. Deposit");
+                Console.WriteLine("3. Withdraw");
+                Console.WriteLine("4. Exit");
 
-                // TODO: Read user choice
+                Console.Write("Enter choice: ");
+                int choice = Convert.ToInt32(Console.ReadLine());
 
-                int choice = 0; // TODO
-
-                switch (choice)
+                try
                 {
-                    case 1:
-                        // TODO: Display data
-                        break;
-                    case 2:
-                        // TODO: Add entity
-                        break;
-                    case 3:
-                        // TODO: Update entity
-                        break;
-                    case 4:
-                        // TODO: Remove entity
-                        break;
-                    case 5:
-                        Console.WriteLine("Thank You");
-                        return;
-                    default:
-                        // TODO: Handle invalid choice
-                        break;
+                    switch (choice)
+                    {
+                        case 0:
+                            Console.Write("Enter Account Number: ");
+                            string accNo = Console.ReadLine();
+
+                            Console.Write("Enter Holder Name: ");
+                            string name = Console.ReadLine();
+
+                            Console.Write("Enter Initial Balance: ");
+                            decimal balance = Convert.ToDecimal(Console.ReadLine());
+
+                            Account newAccount = new Account
+                            {
+                                AccountNumber = accNo,
+                                HolderName = name,
+                                Balance = balance
+                            };
+
+                            service.AddEntity(newAccount);
+                            Console.WriteLine("Account Created Successfully.");
+                            break;
+
+                        case 1:
+                            var accounts = service.GetAll();
+                            foreach (var acc in accounts)
+                            {
+                                Console.WriteLine($"Account No: {acc.AccountNumber}, Name: {acc.HolderName}, Balance: {acc.Balance}");
+                            }
+                            break;
+
+                        case 2:
+                            Console.Write("Enter Account Number: ");
+                            string depositAcc = Console.ReadLine();
+
+                            Console.Write("Enter Amount to Deposit: ");
+                            decimal depositAmount = Convert.ToDecimal(Console.ReadLine());
+
+                            service.Deposit(depositAcc, depositAmount);
+                            Console.WriteLine("Deposit Successful.");
+                            break;
+
+                        case 3:
+                            Console.Write("Enter Account Number: ");
+                            string withdrawAcc = Console.ReadLine();
+
+                            Console.Write("Enter Amount to Withdraw: ");
+                            decimal withdrawAmount = Convert.ToDecimal(Console.ReadLine());
+
+                            service.Withdraw(withdrawAcc, withdrawAmount);
+                            Console.WriteLine("Withdraw Successful.");
+                            break;
+
+                        case 4:
+                            Console.WriteLine("Thank You");
+                            return;
+
+                        default:
+                            Console.WriteLine("Invalid choice");
+                            break;
+                    }
+                }
+                catch (NegativeBalanceException ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+                catch (InsufficientFundsException ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+                catch (AccountNotFoundException ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Invalid Input. Please try again.");
                 }
             }
         }

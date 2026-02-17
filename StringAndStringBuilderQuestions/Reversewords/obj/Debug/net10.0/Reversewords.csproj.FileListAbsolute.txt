@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/obj/Debug/net10.0/Reversewords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/obj/Debug/net10.0/Reversewords.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/obj/Debug/net10.0/Reversewords.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/obj/Debug/net10.0/Reversewords.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/obj/Debug/net10.0/Reversewords.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/bin/Debug/net10.0/Reversewords
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/bin/Debug/net10.0/Reversewords.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/bin/Debug/net10.0/Reversewords.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/bin/Debug/net10.0/Reversewords.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/bin/Debug/net10.0/Reversewords.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/obj/Debug/net10.0/Reversewords.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/obj/Debug/net10.0/refint/Reversewords.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/obj/Debug/net10.0/Reversewords.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/obj/Debug/net10.0/Reversewords.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/Reversewords/obj/Debug/net10.0/ref/Reversewords.dll

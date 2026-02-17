@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/obj/Debug/net10.0/EmailMasking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/obj/Debug/net10.0/EmailMasking.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/obj/Debug/net10.0/EmailMasking.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/obj/Debug/net10.0/EmailMasking.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/obj/Debug/net10.0/EmailMasking.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/bin/Debug/net10.0/EmailMasking
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/bin/Debug/net10.0/EmailMasking.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/bin/Debug/net10.0/EmailMasking.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/bin/Debug/net10.0/EmailMasking.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/bin/Debug/net10.0/EmailMasking.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/obj/Debug/net10.0/EmailMasking.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/obj/Debug/net10.0/refint/EmailMasking.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/obj/Debug/net10.0/EmailMasking.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/obj/Debug/net10.0/EmailMasking.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/EmailMasking/obj/Debug/net10.0/ref/EmailMasking.dll

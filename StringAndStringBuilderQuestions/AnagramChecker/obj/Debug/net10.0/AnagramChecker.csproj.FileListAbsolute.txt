@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/bin/Debug/net10.0/AnagramChecker
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/bin/Debug/net10.0/AnagramChecker.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/bin/Debug/net10.0/AnagramChecker.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/bin/Debug/net10.0/AnagramChecker.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/bin/Debug/net10.0/AnagramChecker.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/obj/Debug/net10.0/AnagramChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/obj/Debug/net10.0/AnagramChecker.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/obj/Debug/net10.0/AnagramChecker.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/obj/Debug/net10.0/AnagramChecker.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/obj/Debug/net10.0/AnagramChecker.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/obj/Debug/net10.0/AnagramChecker.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/obj/Debug/net10.0/refint/AnagramChecker.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/obj/Debug/net10.0/AnagramChecker.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/obj/Debug/net10.0/AnagramChecker.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/StringAndStringBuilderQuestions/AnagramChecker/obj/Debug/net10.0/ref/AnagramChecker.dll
