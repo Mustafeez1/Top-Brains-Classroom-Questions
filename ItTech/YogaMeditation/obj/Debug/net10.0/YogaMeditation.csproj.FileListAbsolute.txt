@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/obj/Debug/net10.0/YogaMeditation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/obj/Debug/net10.0/YogaMeditation.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/obj/Debug/net10.0/YogaMeditation.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/obj/Debug/net10.0/YogaMeditation.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/obj/Debug/net10.0/YogaMeditation.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/bin/Debug/net10.0/YogaMeditation
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/bin/Debug/net10.0/YogaMeditation.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/bin/Debug/net10.0/YogaMeditation.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/bin/Debug/net10.0/YogaMeditation.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/bin/Debug/net10.0/YogaMeditation.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/obj/Debug/net10.0/YogaMeditation.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/obj/Debug/net10.0/refint/YogaMeditation.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/obj/Debug/net10.0/YogaMeditation.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/obj/Debug/net10.0/YogaMeditation.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/YogaMeditation/obj/Debug/net10.0/ref/YogaMeditation.dll

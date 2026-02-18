@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/bin/Debug/net10.0/E-CommerceOrderManagementSystem
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/bin/Debug/net10.0/E-CommerceOrderManagementSystem.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/bin/Debug/net10.0/E-CommerceOrderManagementSystem.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/bin/Debug/net10.0/E-CommerceOrderManagementSystem.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/bin/Debug/net10.0/E-CommerceOrderManagementSystem.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/obj/Debug/net10.0/E-CommerceOrderManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/obj/Debug/net10.0/E-CommerceOrderManagementSystem.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/obj/Debug/net10.0/E-CommerceOrderManagementSystem.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/obj/Debug/net10.0/E-CommerceOrderManagementSystem.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/obj/Debug/net10.0/E-CommerceOrderManagementSystem.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/obj/Debug/net10.0/E-CommerceOrderManagementSystem.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/obj/Debug/net10.0/refint/E-CommerceOrderManagementSystem.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/obj/Debug/net10.0/E-CommerceOrderManagementSystem.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/obj/Debug/net10.0/E-CommerceOrderManagementSystem.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/LINQTasks/E-CommerceOrderManagementSystem/obj/Debug/net10.0/ref/E-CommerceOrderManagementSystem.dll

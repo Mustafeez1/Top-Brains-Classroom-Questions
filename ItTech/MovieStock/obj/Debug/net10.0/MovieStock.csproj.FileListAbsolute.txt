@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/obj/Debug/net10.0/MovieStock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/obj/Debug/net10.0/MovieStock.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/obj/Debug/net10.0/MovieStock.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/obj/Debug/net10.0/MovieStock.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/obj/Debug/net10.0/MovieStock.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/bin/Debug/net10.0/MovieStock
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/bin/Debug/net10.0/MovieStock.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/bin/Debug/net10.0/MovieStock.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/bin/Debug/net10.0/MovieStock.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/bin/Debug/net10.0/MovieStock.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/obj/Debug/net10.0/MovieStock.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/obj/Debug/net10.0/refint/MovieStock.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/obj/Debug/net10.0/MovieStock.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/obj/Debug/net10.0/MovieStock.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/MovieStock/obj/Debug/net10.0/ref/MovieStock.dll

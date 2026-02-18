@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/obj/Debug/net10.0/FindItems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/obj/Debug/net10.0/FindItems.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/obj/Debug/net10.0/FindItems.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/obj/Debug/net10.0/FindItems.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/obj/Debug/net10.0/FindItems.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/bin/Debug/net10.0/FindItems
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/bin/Debug/net10.0/FindItems.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/bin/Debug/net10.0/FindItems.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/bin/Debug/net10.0/FindItems.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/bin/Debug/net10.0/FindItems.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/obj/Debug/net10.0/FindItems.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/obj/Debug/net10.0/refint/FindItems.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/obj/Debug/net10.0/FindItems.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/obj/Debug/net10.0/FindItems.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/ItTech/FindItems/obj/Debug/net10.0/ref/FindItems.dll
